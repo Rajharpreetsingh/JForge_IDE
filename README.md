@@ -32,3 +32,77 @@ Console Hiding Feature
 
 
 Copy Paste Clipboard Option
+# 🐍 PyDev Studio
+
+A lightweight and modern Python IDE designed to simplify coding, debugging, and project management for developers of all levels.
+
+---
+
+## 📌 Overview
+
+PyDev Studio is a clean and efficient Python development environment built to enhance productivity and provide a smooth coding experience. It focuses on simplicity, performance, and essential features that help developers write and manage Python applications with ease.
+
+---
+
+## ✨ Features
+
+* 🧠 Syntax Highlighting for better code readability
+* ⚡ Real-time Code Execution
+* 🐞 Error Detection & Basic Debugging
+* 📁 Project/File Management
+* 🎯 Lightweight & Fast Performance
+* 🖥️ User-Friendly Interface
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** Python
+* **GUI Framework:** Tkinter (or relevant GUI library used)
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+* Python 3.x installed on your system
+
+### 📥 Installation & Run
+
+```bash
+git clone https://github.com/your-username/PyDev-Studio.git
+cd PyDev-Studio
+python main.py
+```
+
+---
+
+## 📷 Screenshots
+
+*Add screenshots of your IDE here to showcase UI and features*
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🌟 Author
+
+**Raj Harpreet Singh**
+Software & Game Developer | AI/ML Enthusiast
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a star ⭐ on GitHub!
